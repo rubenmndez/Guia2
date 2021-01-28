@@ -1,0 +1,45 @@
+body{
+background-color: black;
+}
+
+h1{
+  color: white;
+  text-align: center;
+}
+
+h2{
+    color: white;
+    text-align: center;
+  }
+  
+  h3{
+    color: white;
+    font-style: italic;
+  }
+
+p{
+    color: white;
+  }
+
+div{
+    background-color: white; 
+  }
+
+  h6{
+    color: white;
+  }
+
+  small{
+    color: white;
+  }
+
+  .pensa{
+    color: white;
+    text-align: justify;
+    font-size: 12px;
+    font-family: Helvetica;
+  }
+
+  footer{
+    text-align: center;
+  }

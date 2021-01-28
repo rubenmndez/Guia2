@@ -1,0 +1,264 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(../imagenes/Fondo.jpg);
+     
+}
+
+.subTitulo {
+    font-family: 'Segoe UI';
+    font-size: 10px;
+    margin-top: 4%;
+    text-align: justify;
+    color: gray;
+     
+}
+
+#Texto {
+    width: 80%;
+    margin: auto;
+
+}
+
+.BG1 {
+    width: 90%;
+    margin: auto;
+}
+
+.bandera {
+    margin-left: 35%;
+    margin-top: 9%;
+}
+
+.Contenedor1 {
+    width: 80%;
+    margin: auto;
+    margin-top: 8.5%;
+    margin-bottom: 6%;
+}
+
+.listado {
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -47%;
+    margin-left: 30em;
+    color: black;
+}
+
+.listadoDep {
+    font-size: 20px;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: -50%;
+    color: black;
+}
+
+
+.linea {
+    background: dodgerblue;
+
+    width: 100%;
+    height: 150px;
+    margin-top: 5%;
+}
+
+.Parte1 {
+    margin-bottom: 17%;
+}
+
+.Lista {
+    font-size: 20px;
+
+
+}
+
+#ComoFun {
+    font-size: 30px;
+    color: #e44949;
+    text-align: left;
+    margin-bottom: 4%;
+    margin-top: -80%;
+
+}
+
+#Sosten {
+    font-size: 30px;
+    color: dodgerblue;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+
+.sostenLo {
+    margin: auto;
+    width: 80%;
+    margin-left: 30%;
+    margin-top: 15%;
+
+}
+
+.NoSe {
+    width: 80%;
+    margin-left: 15%;
+    margin-bottom: -5%;
+}
+
+.Parte2 {
+    width: 80%;
+
+    margin: auto;
+
+
+}
+
+.linea2 {
+    background: dodgerblue;
+    width: 100%;
+    height: 150px;
+    margin-top: 0%;
+    margin-bottom: 10%;
+}
+
+.video2 {
+    margin-left: 55%;
+   margin-top: 0;
+    margin-bottom: 20%;
+
+}
+
+.Contenedor2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 18%;
+    text-align: left;
+    margin-top: -8%;
+
+
+}
+
+.Parrafo2 {
+    margin-top: -50%;
+    width: 50%;
+}
+
+.linea3 {
+    background: dodgerblue;
+    width: 100%;
+    height: 150px;
+    margin-top: -10%;
+}
+.video1{
+    margin-left: -3%;
+    margin-top: -20%;
+}
+
+p {
+  margin-bottom: 20px;
+}
+.wrapper {
+  width: 80%;
+  margin: auto;
+  overflow:hidden;
+}
+.head {
+  background: dodgerblue;
+  width: 100%;
+  position: fixed;
+  z-index: 10;
+}
+
+nav {
+  float: left; /* Desplazamos el nav hacia la izquierda */
+}
+nav ul {
+  list-style: none;
+  overflow: hidden;
+   display: flex;
+  justify-content: center; 
+}
+nav ul li {
+  float: left;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+
+}
+nav ul li a {
+  display: block; /* Convertimos los elementos a en elementos bloque para manipular el padding */
+  padding: 20px;
+  color: #fff;
+  text-decoration: none;
+}
+nav ul li:hover {
+  background:dodgerblue;
+}
+.contenido {
+  padding-top: 80px;
+}
+li {
+  margin: 0 .75rem;
+}
+.pais {
+    font-family: 'Segoe UI';
+    font-size: 80px;
+    margin-top: 4%;
+    text-align: center;
+    color: black;
+    margin-left: 50px;
+
+}
+
+.departamentos{
+    font-family: 'Segoe UI';
+    font-size: 80px;
+    margin-top: 4%;
+    text-align: center;
+    color: black;
+
+
+} 
+
+.sim{
+    margin-left: 2.5em;
+    margin-right: 7em;
+   display: flex;
+} 
+
+.imgSim{
+    width: 150px;
+    height: 150px;
+ } 
+
+ .textosim{
+    text-align: center;
+    margin-left: 2.5em;
+    margin-right: 7em;
+    font-size: 18px;
+ } 
+
+ .MZ{
+    text-align: center;
+    margin-left: 3em;
+    margin-right: 0em;
+    font-size: 18px;
+ } 
+
+ .MAZ{
+    
+    margin-left: 13em;
+
+ } 
+ .PZ{
+    
+    margin-left: 35em;
+    font-size: 18px;
+ }
+ h1{
+    
+
+    font-size: 32px;
+padding-left: 17em;
+    background-color: black;
+    color: white;
+ }

@@ -1,0 +1,28 @@
+body{
+    background-color: #E0E0E0 ;
+    font-family: Arial,  sans-serif;
+    font-size: 18px;
+}
+    
+div.contenido{
+    margin: 0 auto;
+    width: 80%;
+}
+
+.cuento{
+   color: navy;
+    text-align: justify;
+}
+
+.parrafo1{
+    
+    font-family:  'Courier New',  monospace;
+}
+.parrafo2{
+    
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+.parrafo3{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}

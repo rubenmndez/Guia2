@@ -1,0 +1,24 @@
+
+body{
+    background-color: lightblue;
+}
+
+
+.xd {
+    font-size: 20px;
+}
+
+h2{
+   text-decoration: underline;
+}
+
+.xd1{
+    color: navy;
+}
+.xd2{
+   text-transform: uppercase;
+}
+
+.xd3{
+     font-style:italic;
+ }
